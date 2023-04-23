@@ -7,3 +7,7 @@ _screenshot_:
 **Contribution Guidelines:**</br>
 Simply run the program on your machine and start hunting for Armstrong numbers like a detective on a mission. _And don't forget to flex your PC power by sharing your execution time and CPU specs in the pull request_ when you find those elusive numbers.</br> 
 When you've added your discoveries to the list, send a pull request. Easy peasy :)
+
+**ToDo**
+- [ ] Add Threading. 
+- [ ] Add database to store execution details.
